@@ -1,0 +1,6 @@
+bag shoes shirts
+add your list 
+press ESC
+hot :
+and then hit wq!
+
